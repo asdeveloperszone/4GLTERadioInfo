@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="splash_bg">#071526</color>
+    <color name="bg_dark">#071526</color>
+    <color name="bg_card">#0F2442</color>
+    <color name="bg_card2">#0A1C35</color>
+    <color name="accent_blue">#1E88E5</color>
+    <color name="accent_blue_light">#64B5F6</color>
+    <color name="accent_cyan">#00ACC1</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#82B1D8</color>
+    <color name="text_muted">#3D6080</color>
+    <color name="step_bg">#1565C0</color>
+    <color name="warning_bg">#0A1F38</color>
+    <color name="warning_yellow">#FFD600</color>
+    <color name="btn_primary">#1565C0</color>
+    <color name="divider">#132D4A</color>
+    <color name="icon_circle_bg">#FFFFFF</color>
+    <color name="success_green">#00C853</color>
+    <color name="tag_bg">#0D2440</color>
+</resources>

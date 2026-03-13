@@ -1,0 +1,3 @@
+# Keystore file is NOT stored in git.
+# It is decoded from KEYSTORE_BASE64 GitHub Secret during CI build.
+# NEVER commit your .jks file to git!
